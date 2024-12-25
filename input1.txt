@@ -1,4 +1,101 @@
-1, John Doe, Computer Science, Project Award, Best in Class Project,90
-2, Jane Smith, Electrical Engineering, Debate Winner, Won National Debate Competition,85
-3, Abhishek Kini, Computer Science, Project Award, Best in Class Project,88
-4, Alice Johnson, Mechanical Engineering, Research Paper, Published in International Journal, Team Leader, Led a winning team in Robotics Challenge,92
+1, Deepa D Prabhu, Computer Science, Innovator, Developed an advanced algorithm for data compression, Speaker, Presented at national conferences, 96
+2, Abhishek kini, Computer Science, Hackathon Winner, Won national coding hackathon, App Developer, Created a traffic management app, 96
+3, Mayur Jaywant kamath, Mechanical Engineering, Research Intern, Worked at ISRO, Community Helper, Organized rural tech camps, 89
+4, Asmitha Marciya, Electrical Engineering, Top Innovator, Built a solar-powered vehicle, Team Leader, Led a renewable energy project, 92
+5, Karthik S J, Biotechnology, Young Researcher, Developed eco-friendly bio-fertilizer, Speaker, Presented at international conferences, 94
+6, Rohit Singh, Civil Engineering, Green Architect, Designed a sustainable building, Volunteer, Built homes for underprivileged, 90
+7, Ananya Das, Computer Science, Data Analyst, Created data models for startups, Blogger, Wrote tech blogs on AI, 93
+8, Siddharth Menon, Electronics, Circuit Designer, Designed a low-cost hearing aid, Innovator, Built IoT-based devices, 93
+9, Kavya Nair, Physics, Quantum Enthusiast, Researched quantum mechanics, Tutor, Helped students with physics problems, 88
+10, Akash Kumar, Mechanical Engineering, Roboticist, Created a waste-sorting robot, Mentor, Guided junior robotics teams, 91
+11, Sneha Roy, Chemistry, Analytical Chemist, Studied water purification methods, Environmentalist, Promoted waste reduction, 87
+12, Ramesh Chandra, Mathematics, Math Genius, Solved complex equations, Author, Published a book on calculus, 94
+13, Lakshmi Pillai, Biotechnology, Genetic Researcher, Studied hereditary diseases, Speaker, Spoke at genetic conferences, 90
+14, Harish Verma, Computer Science, Cybersecurity Expert, Secured sensitive networks, Developer, Built a password manager, 92
+15, Pooja Kapoor, Biology, Conservationist, Worked on wildlife protection, Educator, Taught biodiversity courses, 88
+16, Vikas Jain, Electronics, IoT Developer, Created smart home solutions, Engineer, Worked on electric vehicle sensors, 91
+17, Nidhi Bhardwaj, Electrical Engineering, Solar Innovator, Designed solar panel systems, Volunteer, Conducted energy workshops, 93
+18, Ashok Rao, Civil Engineering, Structural Engineer, Designed earthquake-resistant structures, Organizer, Held design competitions, 89
+19, Sanjana Patil, Physics, Astrophysics Enthusiast, Researched black holes, Public Speaker, Delivered science talks, 92
+20, Karan Mehta, Mechanical Engineering, Automotive Engineer, Designed a fuel-efficient engine, Innovator, Patented a cooling system, 95
+21, Deepa Mohan, Computer Science, AI Specialist, Built an AI-based chatbot, Content Creator, Posted tutorials on Python, 90
+22, Aarav Joshi, Electronics, Robotics Expert, Built an autonomous drone, Leader, Guided a robotics team to success, 89
+23, Radha Shankar, Chemistry, Lab Researcher, Developed eco-friendly chemicals, Activist, Promoted chemical safety awareness, 91
+24, Mohit Aggarwal, Mathematics, Olympiad Winner, Won the international math competition, Coach, Trained students for olympiads, 94
+25, Tanya Malik, Biology, Geneticist, Studied rare genetic disorders, Writer, Published research articles, 93
+26, Anil Naik, Electrical Engineering, Smart Grid Developer, Improved power distribution systems, Analyst, Worked on energy data, 92
+27, Shivani Deshmukh, Computer Science, App Designer, Developed a study planner app, Speaker, Motivated students at seminars, 88
+28, Gopal Krishnan, Mechanical Engineering, Machine Designer, Built an efficient cooling fan, Helper, Conducted skill workshops, 90
+29, Ayesha Khan, Biotechnology, Vaccine Researcher, Worked on a malaria vaccine, Volunteer, Educated on vaccination, 89
+30, Raghav Arora, Physics, Theoretical Physicist, Studied string theory, Author, Wrote science fiction books, 92
+31, Varun Shetty, Electronics, Semiconductor Designer, Designed efficient microchips, Innovator, Filed patents in electronics, 94
+32, Keerthi Rao, Chemistry, Organic Chemist, Developed biodegradable plastics, Trainer, Conducted chemistry workshops, 91
+33, Aditya Sen, Computer Science, Software Engineer, Built a bug tracking tool, Educator, Taught coding to kids, 90
+34, Meenal Dutta, Biology, Marine Biologist, Researched coral reefs, Activist, Worked on ocean conservation, 93
+35, Vijay Narayan, Mathematics, Number Theorist, Researched prime numbers, Teacher, Taught advanced mathematics, 92
+36, Diya Shah, Electrical Engineering, Automation Specialist, Designed a smart irrigation system, Organizer, Managed tech fests, 95
+37, Sahil Chopra, Mechanical Engineering, Aerospace Engineer, Worked on lightweight drones, Public Speaker, Spoke on drone tech, 89
+38, Ishita Gupta, Computer Science, Web Developer, Built an educational platform, Writer, Published guides on HTML/CSS, 91
+39, Akhil Reddy, Biotechnology, Food Scientist, Improved crop yield techniques, Blogger, Wrote about agri-tech, 94
+40, Naina Verma, Physics, Solar Energy Researcher, Designed solar concentrators, Volunteer, Taught renewable energy basics, 92
+41, Yash Thakur, Electronics, Embedded Systems Expert, Developed embedded software, Mentor, Guided embedded tech teams, 88
+42, Shruti Desai, Chemistry, Pharmaceutical Chemist, Developed pain-relief drugs, Researcher, Published drug trials, 90
+43, Manish Pandey, Mathematics, Algebra Specialist, Resolved difficult algebra problems, Trainer, Conducted workshops for students, 93
+44, Kritika Kapoor, Biology, Ecologist, Studied forest ecosystems, Leader, Headed conservation programs, 91
+45, Pranav Kulkarni, Electrical Engineering, Energy Consultant, Advised on energy savings, Designer, Developed smart meters, 89
+46, Snehal Patil, Computer Science, Game Developer, Built a 3D adventure game, YouTuber, Posted gaming tutorials, 92
+47, Ajay Mishra, Mechanical Engineering, Thermal Engineer, Designed cooling systems for industries, Writer, Published technical papers, 94
+48, Anjali Sinha, Biotechnology, Plant Biotechnologist, Worked on pest-resistant crops, Speaker, Promoted eco-friendly farming, 93
+49, Rohan Nair, Physics, Cosmologist, Studied the evolution of galaxies, Educator, Taught astrophysics online, 91
+50, Arpita Jain, Electronics, Circuit Innovator, Developed advanced PCB designs, Organizer, Hosted tech meetups, 95
+51, Vikram Singh, Chemistry, Nanotech Specialist, Researched nanoparticles, Innovator, Proposed new nanomaterials, 90
+52, Isha Gupta, Mathematics, Statistics Prodigy, Analyzed complex datasets, Lecturer, Delivered lectures on statistics, 94
+53, Rahul Verma, Computer Science, Blockchain Developer, Built decentralized apps, Writer, Published blockchain blogs, 92
+54, Ananya Bose, Biology, Biomedical Scientist, Worked on prosthetics, Mentor, Trained junior researchers, 89
+55, Siddhant Rao, Electrical Engineering, EV Specialist, Developed battery systems, Advocate, Promoted electric vehicles, 91
+56, Varsha Kulkarni, Biotechnology, Bioinformatics Expert, Studied protein modeling, Blogger, Wrote on bioinformatics, 88
+57, Arjun Menon, Physics, Experimental Physicist, Conducted particle accelerator experiments, Presenter, Gave TEDx talks, 93
+58, Priti Deshmukh, Chemistry, Industrial Chemist, Worked on eco-friendly dyes, Educator, Conducted safety workshops, 92
+59, Akash Jha, Mechanical Engineering, Automotive Designer, Built a concept car model, Leader, Headed design teams, 94
+60, Rhea Sharma, Electronics, Sensor Developer, Designed environmental sensors, Activist, Worked on air quality initiatives, 89
+61, Omkar Patel, Mathematics, Optimization Specialist, Solved complex optimization problems, Guide, Tutored advanced math students, 91
+62, Simran Kaur, Computer Science, Cloud Engineer, Optimized cloud applications, Speaker, Spoke at tech summits, 92
+63, Karthik Iyer, Biotechnology, Environmental Scientist, Developed waste management solutions, Volunteer, Worked on sanitation awareness, 90
+64, Neha Arora, Physics, Renewable Energy Enthusiast, Studied wind energy, Educator, Taught clean energy solutions, 95
+65, Anmol Gupta, Electronics, VLSI Designer, Built compact circuit designs, Speaker, Delivered lectures on chip design, 89
+66, Arya Rao, Chemistry, Polymer Chemist, Developed eco-friendly polymers, Innovator, Proposed sustainable materials, 93
+67, Rajesh Mishra, Computer Science, AI Enthusiast, Developed a language translation app, Mentor, Helped junior AI learners, 92
+68, Kavitha Nair, Biology, Pharmacologist, Studied herbal medicine, Leader, Organized medical research teams, 91
+69, Arvind Reddy, Electrical Engineering, Circuit Designer, Built low-power circuits, Advocate, Promoted energy conservation, 88
+70, Mitali Jain, Mathematics, Probability Theorist, Researched stochastic processes, Educator, Conducted online classes, 94
+71, Rakesh Sharma, Mechanical Engineering, Design Innovator, Built a modular furniture system, Volunteer, Helped design workshops, 90
+72, Bhavana Das, Biotechnology, Healthcare Scientist, Developed diagnostic kits, Researcher, Studied disease biomarkers, 93
+73, Krishnan Iyer, Physics, Nuclear Physicist, Researched reactor designs, Educator, Taught nuclear physics basics, 92
+74, Rina Gupta, Chemistry, Analytical Specialist, Conducted water quality studies, Speaker, Spoke at environment forums, 91
+75, Tarun Singh, Computer Science, Full-stack Developer, Built scalable web apps, Writer, Published coding tutorials, 89
+76, Shreya Bhat, Electronics, Automation Expert, Designed robotic arms, Innovator, Proposed IoT automation solutions, 94
+77, Naveen Joshi, Mechanical Engineering, CAD Specialist, Designed industrial tools, Mentor, Trained on 3D modeling software, 93
+78, Aniket Sen, Biotechnology, Clinical Researcher, Studied drug efficacy trials, Speaker, Shared knowledge at conferences, 92
+79, Tanya Iyer, Physics, Space Scientist, Studied satellite dynamics, Volunteer, Worked on space education, 91
+80, Vishal Patel, Electrical Engineering, Power Systems Engineer, Improved grid resilience, Advocate, Promoted smart grids, 95
+81, Ankita Das, Chemistry, Biochemist, Studied enzyme activities, Activist, Promoted chemical safety, 90
+82, Mohini Gupta, Mathematics, Graph Theorist, Analyzed network structures, Teacher, Helped students with graph theory, 93
+83, Adarsh Reddy, Computer Science, Software Architect, Designed scalable systems, Blogger, Wrote on software architecture, 92
+84, Mehul Shah, Biology, Ecologist, Studied mangrove ecosystems, Speaker, Delivered talks on conservation, 89
+85, Ritu Jain, Electronics, Hardware Specialist, Designed high-speed circuits, Mentor, Guided hardware design teams, 91
+86, Dhruv Nair, Physics, Plasma Researcher, Worked on fusion energy, Presenter, Spoke at plasma science forums, 94
+87, Sohini Sengupta, Biotechnology, Tissue Engineer, Developed synthetic organs, Advocate, Promoted organ donation, 92
+88, Rahul Iyer, Chemistry, Inorganic Chemist, Developed metal alloys, Educator, Taught metallurgy concepts, 91
+89, Avani Patel, Computer Science, Mobile Developer, Built health monitoring apps, Writer, Published app development guides, 90
+90, Sameer Das, Mathematics, Computational Mathematician, Developed numerical methods, Trainer, Conducted math bootcamps, 95
+91, Shalini Kumar, Biology, Microbiologist, Researched antibiotic resistance, Volunteer, Worked on health awareness, 94
+92, Prateek Sinha, Electrical Engineering, Solar Engineer, Built advanced solar trackers, Leader, Managed solar tech teams, 92
+93, Priyanka Jain, Chemistry, Researcher, Studied atmospheric chemistry, Mentor, Guided environmental projects, 90
+94, Harini Rao, Mathematics, Cryptographer, Studied encryption algorithms, Writer, Published cybersecurity articles, 93
+95, Kunal Shah, Mechanical Engineering, Systems Engineer, Designed industrial cooling systems, Blogger, Wrote on mechanical design, 91
+96, Shravan Gupta, Physics, Material Scientist, Worked on superconductors, Speaker, Shared findings at conferences, 94
+97, Manasi Kulkarni, Electronics, IoT Architect, Designed smart city systems, Advocate, Promoted IoT safety, 92
+98, Jai Sharma, Computer Science, Backend Developer, Optimized server applications, Educator, Taught backend programming, 91
+99, Saniya Patel, Biotechnology, Agronomist, Improved crop resilience, Writer, Published agri-tech blogs, 93
+100, Lokesh Verma, Electrical Engineering, Renewable Energy Expert, Designed hybrid power systems, Volunteer, Educated rural areas, 89
+101, Shruti Rao, Biology, Genetic Engineer, Worked on DNA editing techniques, Speaker, Promoted genetic literacy, 90
